@@ -3,20 +3,20 @@
 // ==============================================================================
 const mysql = require("mysql");
 
-let connection;
-
-// Access to database
-if (process.env.JAWSDB_URL) {
+var connection;
+if(process.env.JAWSDB_URL) {
+  //Heroku deployment
     connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
+  //local host
     connection = mysql.createConnection({
         root: 3000,
         host: "localhost",
         user: "root",
         password: "",
-        database: "burgers_db"
+        database: "db_name",
     });
-}
+};
 
 // Send connection request
 connection.connect(function (err) {
