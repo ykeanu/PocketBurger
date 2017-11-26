@@ -16,7 +16,7 @@ const app = express();
 let port = process.env.PORT || 3000;
 
 // Routes
-const routes = require("./controllers/burgers_controller.js");
+const routes = require("./controllers/burger_controller.js");
 
 // Server static content
 app.use(express.static(process.cwd() + "/public"));

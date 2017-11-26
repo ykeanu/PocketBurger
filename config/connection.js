@@ -3,7 +3,7 @@
 // ==============================================================================
 const mysql = require("mysql");
 
-const connection;
+let connection;
 
 // Access to database
 if (process.env.JAWSDB_URL) {

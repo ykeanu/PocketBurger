@@ -1,9 +1,9 @@
 // ==============================================================================
 // NPM PACKAGES && IMPORTS 
 // ==============================================================================
-const express = requestuire("express");
+const express = require("express");
 const router = express.Router();
-const burger = requestuire("../models/burger.js");
+const burger = require("../models/burger.js");
 
 
 // ==============================================================================
