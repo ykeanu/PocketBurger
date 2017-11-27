@@ -1,5 +1,5 @@
 # Eat-Da-Burger!
-Eat-Da-Burger is a full-stack web application that utilizes a model view controller (MVC) to keep track of various customizable orders for a burger restuarant. This was built with several techonlogies such as mySQL (with orm), handbars, node.js, express, and boostrap.
+Eat-Da-Burger is a full-stack web application that utilizes a model view controller (MVC) to keep track of various customizable orders for a burger restuarant. This was built with several techonlogies such as mySQL (with orm), handbars, node.js, express, and bootstrap.
 
 ## Live Link
 - https://pocket-burger.herokuapp.com/
