@@ -10,7 +10,7 @@ Eat-Da-Burger is a full-stack web application that utilizes a model view control
 3. Add a customizable burger by filling out the text input and clicking `Add Burger`.
 
 ## Live Example
-<img src="" width="85%" height="85%">
+<img src="https://github.com/ykeanu/PocketBurger/blob/master/public/assets/media/demo/pocket-burger.gif?raw=true" width="85%" height="85%">
 
 ## Built With
 - HandleBars
