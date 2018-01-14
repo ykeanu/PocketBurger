@@ -67,4 +67,4 @@ Eat-Da-Burger is a full-stack web application that utilizes a model view control
 ### Developers
 - Ysrael "Izzy" Hernandez | [GitHub](https://github.com/ykeanu)
 
--------------
+------------
